@@ -1,2 +1,2 @@
 # SimplePool
-This is a very simple exercise abut Rust language pool implementaiton
+This is a Rust learning exercise. So, It's a work in progress.
